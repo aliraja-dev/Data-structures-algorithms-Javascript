@@ -1,4 +1,9 @@
-
+//* Merge Sort
+/**
+ * Time complexity : O(n log n)
+ * Space complexity : O(n)
+ * A stable sorting algorithm that is relatively efficient in terms of time but requires extra space. Use this algorithm when the input is not too large. And it works by dividing the array into subarray of size 1 and then merging them in a sorted order.
+ */
 
 
 function merge(leftA, rightA) {
