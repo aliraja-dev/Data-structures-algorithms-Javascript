@@ -42,6 +42,8 @@ Stack.prototype.contains = function (element) {
     return this.array.indexOf(element) !== -1;
 }
 
+//TODO Search & Access methods
+
 const stack1 = new Stack();
 stack1.push(1);
 console.log(stack1.peek());
