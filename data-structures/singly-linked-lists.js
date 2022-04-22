@@ -6,7 +6,9 @@
  * 
  * ! Singly Linked List
  * Time Complexity:
- * 
+ * search: O(n)
+ * delete: O(n)
+ * insert: O(1)
  */
 
 //* Creating a linked list Node: needs data and next property
@@ -39,6 +41,7 @@ LinkedList.prototype.insert = function (data) {
 }
 
 //* delete by value
+//TODO look into it
 LinkedList.prototype.delete = function (data) {
     //* check at Head of the list
     if (this.head.data === data) {
@@ -70,6 +73,19 @@ LinkedList.prototype.delete = function (data) {
 }
 
 
+//* Search by value
+LinkedList.prototype.search = function (data) {
+    let current = this.head;
+    while (current.next !== null) {
+        if (current.data === data) {
+            return current;
+        }
+        current = current.next;
+    }
+    return false;
+}
+
+
 
 
 
@@ -78,6 +94,7 @@ const list1 = new LinkedList();
 console.log("Inserting 1", list1.insert(1));
 console.log("Inserting 2", list1.insert(2));
 console.log("Inserting 3", list1.insert(3));
-console.log("Delete 3", list1.delete(3))
+// console.log("Delete 3", list1.delete(3))
 console.log("entire list", list1);
-console.log("Head of the list is", list1.head);
+// console.log("Head of the list is", list1.head);
+console.log("Searching for 3", list1.search(3));
