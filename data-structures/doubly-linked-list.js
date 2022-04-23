@@ -57,5 +57,5 @@ DoublyLinkedList.prototype.insertAtTail = function (data) {
 }
 
 DoublyLinkedList.prototype.deleteAtHead = function () {
-
+    //TODO implement this method
 }
