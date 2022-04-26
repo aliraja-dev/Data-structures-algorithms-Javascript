@@ -1,6 +1,14 @@
-# Data Structures & Algorithms in JS
+# Data Structures & Algorithms
 
-This project is about understanding, implementing and evaluating popular algorithms and data structures for common use cases in programming using javascript for implementation in this repo.
+This project is about understanding, implementing and evaluating popular algorithms and data structures for common use cases in programming.
+
+## Implementation Languages
+
+This project will have implementations in Java, Python and javascript.
+Switch branch to see implementations in relevant Language.
+Master Branch == Javascript
+Java Branch == Java
+Python Branch == Python
 
 ## Algorithms
 
