@@ -1,18 +1,22 @@
 # Data Structures & Algorithms
 
-This project is about understanding, implementing and evaluating popular algorithms and data structures for common use cases in programming.
+This project is about understanding, implementing and evaluating popular algorithms and data structures for common use cases in programming. Master Branch holds implementations for Javascript and the JAVA branch for Java Language.
+
+### Project BackLog:
+
+Implement DSA in Java
 
 ## Implementation Languages
 
 This project will have implementations in Java, Python and javascript.
 Switch branch to see implementations in relevant Language.
 Master Branch == Javascript
-Java Branch == Java
-Python Branch == Python
+Java Branch == Java - In Process
+Python Branch == Python - Coming Soon
 
 ## Algorithms
 
-We will be covering the algorithms in the following areas:
+I will be covering the algorithms in the following areas:
 
 1- Searching
 2- Sorting
@@ -50,7 +54,7 @@ And we will also be discussing the Big O Notations for the time and space comple
 
 ## Implementation
 
-The algorithms will be implemented in the Javascript language. In case, where ES6 provides built in data structures for sets and maps, we will show both built in and a custom implementation of it.
+The algorithms will be implemented in the Java & Javascript languages. In case, where ES6 provides built in data structures for sets and maps, I will show both built in and a custom implementation of it.
 
 ## Evaluation
 
