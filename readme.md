@@ -1,6 +1,10 @@
 # Data Structures & Algorithms
 
-This project is about understanding, implementing and evaluating popular algorithms and data structures for common use cases in programming. Master Branch holds implementations for Javascript and the JAVA branch for Java Language.
+This project is about understanding, implementing and evaluating popular algorithms and data structures for common use cases in programming.
+
+## JAVA & JS Branches
+
+Master Branch holds implementations for Javascript and the JAVA branch for Java Language.
 
 ### Project BackLog:
 
