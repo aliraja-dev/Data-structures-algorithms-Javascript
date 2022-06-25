@@ -2,21 +2,9 @@
 
 This project is about understanding, implementing and evaluating popular algorithms and data structures for common use cases in programming.
 
-## JAVA & JS Branches
+## Expository Language
 
-Master Branch holds implementations for Javascript and the JAVA branch for Java Language.
-
-### Project BackLog:
-
-Implement DSA in Java
-
-## Implementation Languages
-
-This project will have implementations in Java, Python and javascript.
-Switch branch to see implementations in relevant Language.
-Master Branch == Javascript
-Java Branch == Java - In Process
-Python Branch == Python - Coming Soon
+This Repo's expository language for DSA is Javascript, there is a separate repo for DSA using Java as well.
 
 ## Algorithms
 
